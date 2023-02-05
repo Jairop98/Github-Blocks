@@ -1,0 +1,24 @@
+.container{
+    height: 800px;
+    background-color: blanchedalmond;
+    margin: 0px auto;
+    text-align: center;
+}
+img.octocat {
+    height: 200px;
+}
+.red,.black,.yellow {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.red {
+    background-color: red;
+}
+.black {
+    background-color: black;
+}
+.yellow {
+    background-color: yellow;
+}
